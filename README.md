@@ -14,12 +14,12 @@
 
         + Download and unzip the source repository for this guide, or clone it using Git:
       ```
-      $ git clone https://gitlab.com/lippia/products/samples/lippia-web-sample-project.git
+      $ git clone https://github.com/MartinMiguelMontes9/FrameworkCucumber.git
       ```
 
         + Go to root directory:
       ```
-      $ cd lippia-web-sample-project
+      $ cd FrameworkCucumber
       ```   
 
     + ### Second Step
